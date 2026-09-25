@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: music
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: music
+  m_GUID: 50e51bd1b71ba4e5d9125ebd22e3bd88
+  m_SerializeEntries:
+  - m_GUID: 0ac86d269e1854003aaefe5d12d8a11c
+    m_Address: 04. New Leaf - Aimless, G Mills, Udai Shera, Gabriel Millman
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d7ffd1c178c5441590952d08fcbdfa5
+    m_Address: 26. Lavender - amies, Hoffy Beats, Arthur Spuijman, Jonas Hoffmann
+      Nedergaard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a2a477a424f7474684fd82cc920e152
+    m_Address: 02. blue skies - No Spirit, marsquake, Philipp Alexander Geitmann,
+      Malte Kuhn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d9aadcb634434768b29b9fc09d2ea94
+    m_Address: 09. April Showers - Laffey, azayaka, Andrew Laffey, Jake Fine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3997aaa102acc4638912b0dc4b47f95f
+    m_Address: 08. morning sun - takeo, after noon, Tyus Liu, Oliver Patton
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d054720afa684904b521334a9bb6606
+    m_Address: 14. Wildflowers - Casiio, Slo Loris, Jeffry Brouwer, Christopher Mazuera
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 462bcba62f59744bab38451947f0c41c
+    m_Address: 05. Nine Leaves - Deauxnuts, Nokiaa, Maarten Smit, Dayle Hamers
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4dc91845b89a948deb320fb61f70570d
+    m_Address: 11. Horizon - Aboueb, klemsis, Ayoub Bouazzaoui, Clement Courset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53f826a34552e4e748b1fa5a95c55477
+    m_Address: 21. everything grows again - fnonose, Martin Kraggerud
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5690e815faf484a2a939770aca8b7590
+    m_Address: 28. sunmist - Kainbeats, after noon, Matthew-Keane Qiu Wang, Oliver
+      Patton
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5948c99633b92444da26ab42ee1e1243
+    m_Address: 23. Sunny Days Are Back - Hoogway, Victor Spira
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ff31087b5e4c4121b8398104842187e
+    m_Address: 10. Brighter Days - ZENDR, Comodo, Alan Smith, Will Gregory
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c635bde061fe4091b74dcb117ff853f
+    m_Address: 20. fresh start - WYS, Valentin Villarubias
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76da7382fa714428b964c202d31f4db5
+    m_Address: 24. Allium - MyceliumBug, Marie, Francesco Sisi, Luciano Masala
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78af1c364478d47278d83a0045512320
+    m_Address: 03. home in spring - xander., Lucid Keys, Alexander Papamitrou, Cameron
+      Williams
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8268197068e5b4217a0f444f41ef571f
+    m_Address: 18. clover - morningtime, Ellis Laifer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9efb23d90e2d249d1a8975cb638df645
+    m_Address: 15. here again - dennisivnvc, Banks, Dennis Wiebe, George William
+      Banks
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af0d005443d5f40f497394c4ce77c1fd
+    m_Address: 22. Dewdrops - Quist, lov sum, Jacob Quistgaard, Guillermo Bans
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7a4e86c44c96458ba81a64d5853b463
+    m_Address: 19. Eggs and Toast - saint rumi, Towerz, Michael Joseph Mathieu Jr.,
+      William Breeuwsma
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c626e4c840b264bd183ebdb362971455
+    m_Address: 07. Honeycomb - Lazlow, Adam Laszlo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca9e83c3a067e42459b1ae0ff3e35c8d
+    m_Address: 06. woodnotes - softy, .Eehou, Hyun Soo Kang, Mars Saralinov
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd8c02a226c994d43be607790b0edc33
+    m_Address: 13. Hummingbird - Solar Body, marsquake, Jacob Gossel, Malte Kuhn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4534423a93fd424f92aae2b6c34a815
+    m_Address: 16. picnicdate - Grisp, Tibeauthetraveler, Josia Franz Pommer, Tibeau
+      Denamur
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd87333e094c64ff0b7e963559dc9e47
+    m_Address: 27. nakama - Blurred Figures, another silent weekend, Richard Goddard,
+      Seongjin Park
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea3235f2fe06b4085abbd1ff8e7935c5
+    m_Address: 01. Anther - Blue Wednesday, Gustav Joseph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea3303be66b8a4448ac3a0b623cb2311
+    m_Address: 17. Acorn Falls - Mondo Loops, Antonio Vianello
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2ecdfbabf3e146bfaff1bed0df45f63
+    m_Address: 25. komorebi - Nadav Cohen, Odd Panda, Nadav Samuel Cohen, Nico Ottmann
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc06083cace0e4acd938a1f034b59954
+    m_Address: 12. Back Home - Swink, Gladieux Nicolas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 130db3d70d8024bfabb510e5f64cf850, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a3876591ae8fc4addb8baf2ee815b936, type: 2}
+    - {fileID: 11400000, guid: 5af49c57cd787462586002cfeebd3463, type: 2}

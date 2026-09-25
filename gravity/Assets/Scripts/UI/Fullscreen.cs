@@ -1,0 +1,26 @@
+using UnityEngine;
+using UnityEngine.UI;
+
+public class Fullscreen : MonoBehaviour
+{
+    [SerializeField] Image image;
+    [SerializeField] Sprite close;
+    [SerializeField] Sprite open;
+
+    void Awake()
+    {
+        Screen.fullScreenMode = FullScreenMode.FullScreenWindow;
+    }
+
+    public void ToggleFullscreen()
+    {
+        if (Screen.fullScreen)
+        {
+            image.sprite = open;
+        } else
+        {
+            image.sprite = close;
+        }
+        Screen.fullScreen = !Screen.fullScreen;
+    }
+}
