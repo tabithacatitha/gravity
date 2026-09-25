@@ -64,6 +64,17 @@ public class MusicManager : MonoBehaviour
         }
     }
 
+    void Update()
+    {
+        if (musicSource.isPlaying)
+        {
+            pauseImage.sprite = pause;
+        } else
+        {
+            pauseImage.sprite = play;
+        }
+    }
+
     void Play(AudioClip clip, float volume = 1f)
     {
         if (clip == null) return;

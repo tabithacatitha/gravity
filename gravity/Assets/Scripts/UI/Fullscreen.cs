@@ -14,6 +14,11 @@ public class Fullscreen : MonoBehaviour
 
     public void ToggleFullscreen()
     {
+        Screen.fullScreen = !Screen.fullScreen;
+    }
+
+    void Update()
+    {
         if (Screen.fullScreen)
         {
             image.sprite = open;
@@ -21,6 +26,5 @@ public class Fullscreen : MonoBehaviour
         {
             image.sprite = close;
         }
-        Screen.fullScreen = !Screen.fullScreen;
     }
 }
