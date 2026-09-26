@@ -73,6 +73,10 @@ public class MusicManager : MonoBehaviour
         {
             pauseImage.sprite = play;
         }
+        if (musicSource.isPlaying && musicSource.clip.length < musicSource.time + fadeTime)
+        {
+            PlayIncrement(1);
+        }
     }
 
     void Play(AudioClip clip, float volume = 1f)
